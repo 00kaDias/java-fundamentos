@@ -9,7 +9,7 @@ public class DateRangeExplorer {
         Scanner sc = new Scanner(System.in);
         DateTimeFormatter fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
-        // inputUser
+        // in
         System.out.println("Initial date, dd/MM/yyyy : ");
         String uIntialDate = sc.nextLine();
         LocalDate dt1 = LocalDate.parse(uIntialDate, fmt);
@@ -17,7 +17,7 @@ public class DateRangeExplorer {
         String uEndDate = sc.nextLine();
         LocalDate dt2 = LocalDate.parse(uEndDate, fmt);
         System.out.println();
-        // inputUser
+        //
 
         long totalDays = ChronoUnit.DAYS.between(dt1, dt2);
         LocalDate current = dt1;
@@ -35,7 +35,7 @@ public class DateRangeExplorer {
         }
         System.out.println();
         System.out.println("Total number of weekends: " + count);
-        // while
+        
 
         sc.close();
     }
