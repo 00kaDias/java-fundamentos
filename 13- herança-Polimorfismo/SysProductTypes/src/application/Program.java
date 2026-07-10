@@ -24,32 +24,25 @@ public class Program {
 
             System.out.println("Product #" + i + "data: ");
             System.out.print("Common, used or imported (c/u/i)? ");
-
             char selection = sc.next().charAt(0);
             sc.nextLine();
+
+            System.out.println("Name: ");
+            String name = sc.nextLine();
+            System.out.println("Price: ");
+            double price = sc.nextDouble();
+
             if (selection == 'i') {
-                System.out.print("Name: ");
-                String name = sc.nextLine();
-                System.out.print("Price: ");
-                Double price = sc.nextDouble();
                 System.out.print("Customs fee: ");
                 Double customsfee = sc.nextDouble();
 
                 products.add(new ImportedProduct(name, price, customsfee));
 
             } else if (selection == 'c') {
-                System.out.print("Name: ");
-                String name = sc.nextLine();
-                System.out.print("Price: ");
-                Double price = sc.nextDouble();
 
                 products.add(new Product(name, price));
 
             } else if (selection == 'u') {
-                System.out.print("Name: ");
-                String name = sc.nextLine();
-                System.out.print("Price: ");
-                Double price = sc.nextDouble();
                 System.out.print("Manufacture date (DD/MM/YYYY): ");
                 Date manufactureDate = sdf.parse(sc.next());
 

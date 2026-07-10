@@ -5,7 +5,10 @@ import java.util.Date;
 
 public class UsedProduct extends Product {
     private String manufactureDate;
+
+    public UsedProduct (Date manufactureDate){
     
+    }
 
     public UsedProduct(String name, Double price, Date manufactureDate) {
         super(name, price);

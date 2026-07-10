@@ -60,7 +60,7 @@ public class Program {
             System.out.println("Income for " + monthAndYear + ": " + String.format("%.2f", worker.income(year, month)));
 
         } else {
-            System.out.println("Ate mais...");
+           ;
         }
         sc.close();
     }
