@@ -14,8 +14,17 @@ public class Program {
         list.add(new Product("Notebook", 1200.00));
         list.add(new Product("Tablet", 50.00));
         list.add(new Product("Tijolo", 02.00));
+            List<String> names = new ArrayList<>();
 
-        list.forEach(p ->  p.setPrice(p.getPrice() + 50));
-        list.forEach(System.out::println);
+        for (Product p : list) {
+        if (p.getPrice() > 100) {
+            names.add(p.getName());
+        }
+        
+        }
+        for (String s : names) {
+            System.out.println(s.toString());
+            
+        }
     }
 }
