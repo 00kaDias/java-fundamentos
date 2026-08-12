@@ -19,3 +19,4 @@ public class Program {
         list.forEach(System.out::println);
     }
 }
+

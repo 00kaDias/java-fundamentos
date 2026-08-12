@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20 - JDBC/20 - JDBC.iml" filepath="$PROJECT_DIR$/20 - JDBC/20 - JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13- herança-Polimorfismo/AbstractSysShapesGeometric/AbstractSysShapesGeometric.iml" filepath="$PROJECT_DIR$/13- herança-Polimorfismo/AbstractSysShapesGeometric/AbstractSysShapesGeometric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16- Interface/Introductions/Comparable/Comparable.iml" filepath="$PROJECT_DIR$/16- Interface/Introductions/Comparable/Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16- Interface/Introductions/DefaultMethods/DefaultMethods.iml" filepath="$PROJECT_DIR$/16- Interface/Introductions/DefaultMethods/DefaultMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15- File, Scanner, IOexception/FileReader and/FileReader and.iml" filepath="$PROJECT_DIR$/15- File, Scanner, IOexception/FileReader and/FileReader and.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17- generics, set e map/Introductions/GenericsDelimitados/GenericsDelimitados.iml" filepath="$PROJECT_DIR$/17- generics, set e map/Introductions/GenericsDelimitados/GenericsDelimitados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18- Programacao funcional e expressoes lambda/InterfacePredic/InterfacePredic.iml" filepath="$PROJECT_DIR$/18- Programacao funcional e expressoes lambda/InterfacePredic/InterfacePredic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18- Programacao funcional e expressoes lambda/InterfacePredic - Copia/InterfacePredic - Copia.iml" filepath="$PROJECT_DIR$/18- Programacao funcional e expressoes lambda/InterfacePredic - Copia/InterfacePredic - Copia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13- herança-Polimorfismo/Intro herança&amp;Protected/Intro herança&amp;Protected.iml" filepath="$PROJECT_DIR$/13- herança-Polimorfismo/Intro herança&amp;Protected/Intro herança&amp;Protected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17- generics, set e map/Introductions/IntroGenerics/IntroGenerics.iml" filepath="$PROJECT_DIR$/17- generics, set e map/Introductions/IntroGenerics/IntroGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17- generics, set e map/Introductions/IntroHashCodeEquals/IntroHashCodeEquals.iml" filepath="$PROJECT_DIR$/17- generics, set e map/Introductions/IntroHashCodeEquals/IntroHashCodeEquals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17- generics, set e map/Introductions/IntroHashsSet/IntroHashsSet.iml" filepath="$PROJECT_DIR$/17- generics, set e map/Introductions/IntroHashsSet/IntroHashsSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18- Programacao funcional e expressoes lambda/IntroStreams/IntroStreams.iml" filepath="$PROJECT_DIR$/18- Programacao funcional e expressoes lambda/IntroStreams/IntroStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16- Interface/Introductions/Intro_Interface_SysCarRent/Intro_Interface_SysCarRent.iml" filepath="$PROJECT_DIR$/16- Interface/Introductions/Intro_Interface_SysCarRent/Intro_Interface_SysCarRent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17- generics, set e map/PECS/PECS.iml" filepath="$PROJECT_DIR$/17- generics, set e map/PECS/PECS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14- tratamento exception/RoomReservationExceptions/RoomReservationExceptions.iml" filepath="$PROJECT_DIR$/14- tratamento exception/RoomReservationExceptions/RoomReservationExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17- generics, set e map/Introductions/Set==/Set==.iml" filepath="$PROJECT_DIR$/17- generics, set e map/Introductions/Set==/Set==.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14- tratamento exception/SysBankExceptions/SysBankExceptions.iml" filepath="$PROJECT_DIR$/14- tratamento exception/SysBankExceptions/SysBankExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16- Interface/SysContractInstallment/SysContractInstallment.iml" filepath="$PROJECT_DIR$/16- Interface/SysContractInstallment/SysContractInstallment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17- generics, set e map/SysCourseStudents/SysCourseStudents.iml" filepath="$PROJECT_DIR$/17- generics, set e map/SysCourseStudents/SysCourseStudents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-data-hora/SysDateRange/SysDateRange.iml" filepath="$PROJECT_DIR$/11-data-hora/SysDateRange/SysDateRange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 - enum,composição/SysEstoque/SysEstoque.iml" filepath="$PROJECT_DIR$/12 - enum,composição/SysEstoque/SysEstoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17- generics, set e map/Introductions/SysLogEntry/SysLogEntry.iml" filepath="$PROJECT_DIR$/17- generics, set e map/Introductions/SysLogEntry/SysLogEntry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13- herança-Polimorfismo/SysProductTypes/SysProductTypes.iml" filepath="$PROJECT_DIR$/13- herança-Polimorfismo/SysProductTypes/SysProductTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17- generics, set e map/SysRepeatWords/SysRepeatWords.iml" filepath="$PROJECT_DIR$/17- generics, set e map/SysRepeatWords/SysRepeatWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17- generics, set e map/SysVotacao/SysVotacao.iml" filepath="$PROJECT_DIR$/17- generics, set e map/SysVotacao/SysVotacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17- generics, set e map/Introductions/Wildcards/Wildcards.iml" filepath="$PROJECT_DIR$/17- generics, set e map/Introductions/Wildcards/Wildcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15- File, Scanner, IOexception/createAndAcessFiles/createAndAcessFiles.iml" filepath="$PROJECT_DIR$/15- File, Scanner, IOexception/createAndAcessFiles/createAndAcessFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-data-hora/dateCalendar/dateCalendar.iml" filepath="$PROJECT_DIR$/11-data-hora/dateCalendar/dateCalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-data-hora/dateJava8/dateJava8.iml" filepath="$PROJECT_DIR$/11-data-hora/dateJava8/dateJava8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18- Programacao funcional e expressoes lambda/exercicioLambda/exercicioLambda.iml" filepath="$PROJECT_DIR$/18- Programacao funcional e expressoes lambda/exercicioLambda/exercicioLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15- File, Scanner, IOexception/introduction sec15/introduction sec15.iml" filepath="$PROJECT_DIR$/15- File, Scanner, IOexception/introduction sec15/introduction sec15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-fundamentos.iml" filepath="$PROJECT_DIR$/.idea/java-fundamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 - enum,composição/sysWorkerContracts/sysWorkerContracts.iml" filepath="$PROJECT_DIR$/12 - enum,composição/sysWorkerContracts/sysWorkerContracts.iml" />
+    </modules>
+  </component>
+</project>
