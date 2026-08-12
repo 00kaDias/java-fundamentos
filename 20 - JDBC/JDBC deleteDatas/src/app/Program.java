@@ -2,21 +2,24 @@ package app;
 
 
 import db.DB;
-import db.DbException;
 
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 
 public class Program {
 
     public static void main(String[] args) {
         Connection conn = null;
-        Statement st = null;
+        PreparedStatement st = null;
         ResultSet rs = null;
         try {
             String name = "' OR '1'='1";
             conn = DB.getConnection();
-            st = conn.createStatement();
-            rs = st.executeQuery("SELECT * FROM seller WHERE Name = '" + name + "'");
+            st = conn.prepareStatement("SELECT * FROM seller WHERE Name = ?");
+            st.setString(1, name);
+            rs = st.executeQuery();
             while (rs.next()) {
                 System.out.println(rs.getString("Name") + ", "
                         + ", " + rs.getString("Email")
@@ -26,7 +29,7 @@ public class Program {
             }
 
 
-            System.out.println("Done! Rows affected: ");
+            System.out.println("Done!  ");
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {
