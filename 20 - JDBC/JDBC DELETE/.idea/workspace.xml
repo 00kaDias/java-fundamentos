@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2604a909-9b7e-46c9-9e82-e6f275ab9d14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/.idea/libraries/mysql_connector_j_26_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/JDBC SELECT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/bin/app/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/bin/db/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/bin/db/DbException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/out/production/JDBC SELECT/app/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/out/production/JDBC SELECT/db/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/out/production/JDBC SELECT/db/DbException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/out/production/Project/app/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/out/production/Project/db/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/out/production/Project/db/DbException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/src/app/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/src/db/DB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC deleteDatas/src/db/DbException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/.idea/libraries/mysql_connector_j_26_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/JDBC SELECT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/bin/app/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/bin/db/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/bin/db/DbException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/out/production/Project/app/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/out/production/Project/db/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/out/production/Project/db/DbException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/src/app/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/src/db/DB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC select/src/db/DbException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/.idea/libraries/mysql_connector_j_26_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/JDBC SELECT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/bin/app/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/bin/db/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/bin/db/DbException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/out/production/JDBC SELECT/app/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/out/production/JDBC SELECT/db/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/out/production/JDBC SELECT/db/DbException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/out/production/Project/app/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/out/production/Project/db/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/out/production/Project/db/DbException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/src/app/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/src/db/DB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC updateDatas/src/db/DbException.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Hn601eBzO0PhFatF8hPKqteT8M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/java-fundamentos/20 - JDBC/JDBC DELETE&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\java-fundamentos\20 - JDBC" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Program" />
+      <module name="JDBC SELECT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2604a909-9b7e-46c9-9e82-e6f275ab9d14" name="Changes" comment="" />
+      <created>1786491258783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786491258783</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/src/app/Program.java</url>
+          <line>6</line>
+          <placement>INTER_LINE</placement>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
